@@ -13,7 +13,7 @@ Flask is used to getting information from user and predicting it using the above
 1. Select the approproate fields from the data.
 2. Train model on the data.
 3. Do some Hyperparameter tuning.
-4. Save th model.
+4. Save the model.
 5. Deply using flask frame-work.
 
 ## Output:
