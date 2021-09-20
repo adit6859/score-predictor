@@ -17,11 +17,9 @@ Flask is used to getting information from user and predicting it using the above
 5. Deply using flask frame-work.
 
 ## Output:
-Input 1\
+Image 1\
 ![](Capture1.PNG)\
-Output 1\
+Input\
 ![](Images/Capture2.PNG)\
-Input 2\
+Output\
 ![](Images/Capture3.PNG)\
-Output 2\
-![](Images/Capture4.PNG)\
