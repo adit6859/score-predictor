@@ -17,8 +17,8 @@ Flask is used to getting information from user and predicting it using the above
 5. Deply using flask frame-work.
 
 ## Output:
-Image 1\
-![](Capture1.PNG)\
+Image 1\(https://user-images.githubusercontent.com/54720212/134011378-7a85338d-f18a-497b-b65f-9d8970fdf47f.PNG)
+
 Input\
 ![](Images/Capture2.PNG)\
 Output\
