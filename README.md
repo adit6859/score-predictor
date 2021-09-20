@@ -21,6 +21,6 @@ Image 1
 (https://user-images.githubusercontent.com/54720212/134011378-7a85338d-f18a-497b-b65f-9d8970fdf47f.PNG)
 
 Input\
-![](Images/Capture2.PNG)\
+![](Capture2.PNG)\
 Output\
-![](Images/Capture3.PNG)\
+![](Capture3.PNG)\
