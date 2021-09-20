@@ -18,8 +18,7 @@ Flask is used to getting information from user and predicting it using the above
 
 ## Output:
 Image 1\
-![](Capture2.PNG)\
-
+![](Capture1.PNG)\
 Input\
 ![](Capture2.PNG)\
 Output\
