@@ -19,7 +19,7 @@ Flask is used to getting information from user and predicting it using the above
 ## Link
 https://shadow-summer.herokuapp.com/
 
-## Output:
+## Screenshot:
 Image 1\
 ![](Capture1.PNG)\
 Input\
